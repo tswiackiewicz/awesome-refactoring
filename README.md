@@ -46,6 +46,7 @@ A curated list of articles, books and any other resources related to [Code Refac
 - [How to Survive a Legacy Code Apocalypse on Android](https://speakerdeck.com/rallat/how-to-survive-a-legacy-code-apocalypse-on-android) - Presentation by [Israel Ferrer](https://twitter.com/rallat) on Nov 2014
 - [Java to Clojure: "Refactoring" refactored functionally](https://adambard.com/blog/refactoring-refactored/) - Blog post by [Adam Bard](https://twitter.com/adambard) on Jun 2014
 - [Java Code refactoring](http://fandry.blogspot.com/2013/06/java-code-refactoring.html) - Blog post by Fandry on Jun 2013
+- [What is refactoring](https://dzone.com/articles/what-is-refactoring) - Blog post by [Justin Albano](https://twitter.com/justinmalbano) on Feb 2018
 
 
 ## Quotes
